@@ -1,0 +1,247 @@
+{
+  "name": "Synthetic Demonstration Contract",
+  "version": "1.0",
+  "filename": "sample_contract.pdf",
+  "clauses": [
+    {
+      "category": "Payment Terms",
+      "text": "Payment Terms.",
+      "reference": "Payment Terms",
+      "page": 1,
+      "summary": "Payment Terms.",
+      "method": "Rule-based keyword match",
+      "evidence": "Payment Terms.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Payment Terms",
+      "text": "Customer shall pay each undisputed invoice within forty-five (45) days of receipt.",
+      "reference": "Customer shall pay each undisputed invoice within forty-five (45) days of receipt",
+      "page": 1,
+      "summary": "Customer shall pay each undisputed invoice within forty-five (45) days of receipt.",
+      "method": "Rule-based keyword match",
+      "evidence": "Customer shall pay each undisputed invoice within forty-five (45) days of receipt.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Payment Terms",
+      "text": "may accrue interest as stated on the invoice.",
+      "reference": "Extract 7",
+      "page": 1,
+      "summary": "may accrue interest as stated on the invoice.",
+      "method": "Rule-based keyword match",
+      "evidence": "may accrue interest as stated on the invoice.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Confidentiality",
+      "text": "Confidentiality.",
+      "reference": "Confidentiality",
+      "page": 1,
+      "summary": "Confidentiality.",
+      "method": "Rule-based keyword match",
+      "evidence": "Confidentiality.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Confidentiality",
+      "text": "Each party shall protect the other party's Confidential Information using reasonable care and shall",
+      "reference": "Each party shall protect the other party's Confidential Information using reasonable care a",
+      "page": 1,
+      "summary": "Each party shall protect the other party's Confidential Information using reasonable care and shall",
+      "method": "Rule-based keyword match",
+      "evidence": "Each party shall protect the other party's Confidential Information using reasonable care and shall",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Termination",
+      "text": "Termination.",
+      "reference": "Termination",
+      "page": 1,
+      "summary": "Termination.",
+      "method": "Rule-based keyword match",
+      "evidence": "Termination.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Termination",
+      "text": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "reference": "Either party may terminate for material breach after thirty days' written notice and opport",
+      "page": 1,
+      "summary": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "method": "Rule-based keyword match",
+      "evidence": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Notice Requirements",
+      "text": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "reference": "Either party may terminate for material breach after thirty days' written notice and opport",
+      "page": 1,
+      "summary": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "method": "Rule-based keyword match",
+      "evidence": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Termination",
+      "text": "Either party may terminate this Agreement for convenience upon ninety days' notice.",
+      "reference": "Either party may terminate this Agreement for convenience upon ninety days' notice",
+      "page": 1,
+      "summary": "Either party may terminate this Agreement for convenience upon ninety days' notice.",
+      "method": "Rule-based keyword match",
+      "evidence": "Either party may terminate this Agreement for convenience upon ninety days' notice.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Liability",
+      "text": "Liability.",
+      "reference": "Liability",
+      "page": 1,
+      "summary": "Liability.",
+      "method": "Rule-based keyword match",
+      "evidence": "Liability.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Renewal",
+      "text": "Renewal.",
+      "reference": "Renewal",
+      "page": 1,
+      "summary": "Renewal.",
+      "method": "Rule-based keyword match",
+      "evidence": "Renewal.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Renewal",
+      "text": "This Agreement automatically renews for successive one-year terms unless either party gives sixty days'",
+      "reference": "This Agreement automatically renews for successive one-year terms unless either party gives",
+      "page": 1,
+      "summary": "This Agreement automatically renews for successive one-year terms unless either party gives sixty days'",
+      "method": "Rule-based keyword match",
+      "evidence": "This Agreement automatically renews for successive one-year terms unless either party gives sixty days'",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Notice Requirements",
+      "text": "written notice before the end of the then-current term.",
+      "reference": "Extract 23",
+      "page": 1,
+      "summary": "written notice before the end of the then-current term.",
+      "method": "Rule-based keyword match",
+      "evidence": "written notice before the end of the then-current term.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Governing Law",
+      "text": "Governing Law.",
+      "reference": "Governing Law",
+      "page": 1,
+      "summary": "Governing Law.",
+      "method": "Rule-based keyword match",
+      "evidence": "Governing Law.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Governing Law",
+      "text": "This Agreement is governed by the laws of Example State.",
+      "reference": "This Agreement is governed by the laws of Example State",
+      "page": 1,
+      "summary": "This Agreement is governed by the laws of Example State.",
+      "method": "Rule-based keyword match",
+      "evidence": "This Agreement is governed by the laws of Example State.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Payment Terms",
+      "text": "This text is deliberately designed to show a payment wording deviation, potentially broad",
+      "reference": "This text is deliberately designed to show a payment wording deviation, potentially broad",
+      "page": 1,
+      "summary": "This text is deliberately designed to show a payment wording deviation, potentially broad",
+      "method": "Rule-based keyword match",
+      "evidence": "This text is deliberately designed to show a payment wording deviation, potentially broad",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Liability",
+      "text": "liability wording, and missing data protection coverage.",
+      "reference": "Extract 29",
+      "page": 1,
+      "summary": "liability wording, and missing data protection coverage.",
+      "method": "Rule-based keyword match",
+      "evidence": "liability wording, and missing data protection coverage.",
+      "confidence": "Evidence found; human confirmation required"
+    },
+    {
+      "category": "Data Protection",
+      "text": "liability wording, and missing data protection coverage.",
+      "reference": "Extract 29",
+      "page": 1,
+      "summary": "liability wording, and missing data protection coverage.",
+      "method": "Rule-based keyword match",
+      "evidence": "liability wording, and missing data protection coverage.",
+      "confidence": "Evidence found; human confirmation required"
+    }
+  ],
+  "comparison": [
+    {
+      "category": "Payment Terms",
+      "status": "WORDING DEVIATION",
+      "expected": "Customer shall pay each undisputed invoice within thirty (30) days of receipt.",
+      "actual": "Payment Terms.\nCustomer shall pay each undisputed invoice within forty-five (45) days of receipt.\nmay accrue interest as stated on the invoice.\nThis text is deliberately designed to show a payment wording deviation, potentially broad",
+      "evidence": "Expected wording differs from detected source text (text similarity 45%; not a legal assessment).",
+      "notes": "Synthetic approved wording"
+    },
+    {
+      "category": "Confidentiality",
+      "status": "WORDING DEVIATION",
+      "expected": "Each party shall protect the other party's Confidential Information using reasonable care.",
+      "actual": "Confidentiality.\nEach party shall protect the other party's Confidential Information using reasonable care and shall",
+      "evidence": "Expected wording differs from detected source text (text similarity 86%; not a legal assessment).",
+      "notes": "Synthetic approved wording"
+    },
+    {
+      "category": "Termination",
+      "status": "WORDING DEVIATION",
+      "expected": "Either party may terminate for material breach after thirty days' written notice and opportunity to cure.",
+      "actual": "Termination.\nEither party may terminate for material breach after thirty days' written notice and opportunity to cure.\nEither party may terminate this Agreement for convenience upon ninety days' notice.",
+      "evidence": "Expected wording differs from detected source text (text similarity 68%; not a legal assessment).",
+      "notes": "Synthetic approved wording"
+    },
+    {
+      "category": "Liability",
+      "status": "WORDING DEVIATION",
+      "expected": "Neither party shall be liable for indirect damages.",
+      "actual": "Liability.\nliability wording, and missing data protection coverage.",
+      "evidence": "Expected wording differs from detected source text (text similarity 36%; not a legal assessment).",
+      "notes": "Synthetic approved wording"
+    },
+    {
+      "category": "Renewal",
+      "status": "WORDING DEVIATION",
+      "expected": "This Agreement renews automatically for successive one-year terms unless either party gives notice.",
+      "actual": "Renewal.\nThis Agreement automatically renews for successive one-year terms unless either party gives sixty days'",
+      "evidence": "Expected wording differs from detected source text (text similarity 82%; not a legal assessment).",
+      "notes": "Synthetic approved wording"
+    },
+    {
+      "category": "Governing Law",
+      "status": "WORDING DEVIATION",
+      "expected": "This Agreement is governed by the laws of Example State.",
+      "actual": "Governing Law.\nThis Agreement is governed by the laws of Example State.",
+      "evidence": "Expected wording differs from detected source text (text similarity 88%; not a legal assessment).",
+      "notes": "Synthetic approved wording"
+    },
+    {
+      "category": "Data Protection",
+      "status": "PRESENT",
+      "expected": "",
+      "actual": "liability wording, and missing data protection coverage.",
+      "evidence": "Category evidence detected; no template wording supplied.",
+      "notes": "No extracted provision: review with incomplete document scenario"
+    }
+  ],
+  "annotations": [],
+  "limitations": "Synthetic sample. Rule-based extraction; no OCR; human review required."
+}

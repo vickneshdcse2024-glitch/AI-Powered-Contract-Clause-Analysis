@@ -1,0 +1,9 @@
+[
+ {"category":"Payment Terms","expected_wording":"Customer shall pay each undisputed invoice within thirty (30) days of receipt.","notes":"Synthetic approved wording"},
+ {"category":"Confidentiality","expected_wording":"Each party shall protect the other party's Confidential Information using reasonable care.","notes":"Synthetic approved wording"},
+ {"category":"Termination","expected_wording":"Either party may terminate for material breach after thirty days' written notice and opportunity to cure.","notes":"Synthetic approved wording"},
+ {"category":"Liability","expected_wording":"Neither party shall be liable for indirect damages.","notes":"Synthetic approved wording"},
+ {"category":"Renewal","expected_wording":"This Agreement renews automatically for successive one-year terms unless either party gives notice.","notes":"Synthetic approved wording"},
+ {"category":"Governing Law","expected_wording":"This Agreement is governed by the laws of Example State.","notes":"Synthetic approved wording"},
+ {"category":"Data Protection","expected_wording":"","notes":"No extracted provision: review with incomplete document scenario"}
+]
